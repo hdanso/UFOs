@@ -8,10 +8,12 @@ In order to use the webpage, the user would first need to input their desired fi
 
 
 Figure 1: Typing in filter criteria
+
 ![fig 1](https://user-images.githubusercontent.com/96188669/202346855-b303411f-e805-4938-8cb3-480e09eb33b4.png)
 
 
 Figure 2: Filtered table results
+
 ![fig 2](https://user-images.githubusercontent.com/96188669/202346898-73472ebc-a17c-46e5-b846-77b2668dddfc.png)
 
 
