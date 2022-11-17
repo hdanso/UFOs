@@ -7,9 +7,11 @@ The purpose of this project was to provide an in-depth analysis of data involvin
 In order to use the webpage, the user would first need to input their desired filter criteria. For example, if the user would like to filter the table data by city, they would navigate to the 'City' filter search bar located on the lefthand side of the page, input the desired city (let's say El Cajon) and hit enter on their keyboard - as shown in figure 1. Once they've entered in El Cajon to the city filter search and pressed enter, the existing table will update to show only the UFO sightings that took place in El Cajon - as shown in figure 2. To reset the filter and display all of the UFO sightings data, the user must clear their previous input, and press enter once again.
 
 
+Figure 1: Typing in filter criteria
 ![fig 1](https://user-images.githubusercontent.com/96188669/202346855-b303411f-e805-4938-8cb3-480e09eb33b4.png)
 
 
+Figure 2: Filtered table results
 ![fig 2](https://user-images.githubusercontent.com/96188669/202346898-73472ebc-a17c-46e5-b846-77b2668dddfc.png)
 
 
